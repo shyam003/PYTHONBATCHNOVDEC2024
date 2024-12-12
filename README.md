@@ -37,3 +37,8 @@ To push the change:
          class_2->main
 
          ex:git push origin class_2     
+
+steps before push
+git status(add all shown after status)
+cd ..
+git add README.md
